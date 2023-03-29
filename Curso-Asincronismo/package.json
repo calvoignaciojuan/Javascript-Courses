@@ -1,0 +1,16 @@
+{
+  "name": "cursoasincronismo",
+  "version": "1.0.0",
+  "description": "javascript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node ./src/callback/httprequest-GET.js"
+  },
+  "author": "Juan Calvo",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type":"module"
+}
